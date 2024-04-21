@@ -16,24 +16,11 @@ Esta aplicación de gestión de pedidos de golosinas está desarrollada en Sprin
 ![Diagrama de Clases](https://raw.githubusercontent.com/marilynpb/AcedemiaTalendProveedorGolosinas/main/src/main/resources/static/img/DiagramaDeClases.png)
 
 
-https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/blob/main/src/main/resources/static/img/DiagramaDeClases.png?raw=true
-
-El siguiente diagrama de clases representa la estructura de la aplicación:
-
-src/main/resources/static/img/DiagramaDeClases.png
-
-src/main/resources/static/img/DiagramaDeClases.png
-
-https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/blob/bc3bf21c6bc2b2b4140fcb23bfc2101dc0449bb9/src/main/resources/static/img/DiagramaDeClases.png
-
-![Diagrama de Clases]([src/main/resources/static/img/DiagramaDeClases.png](https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/blob/main/src/main/resources/static/img/DiagramaDeClases.png))
-
 ### Diagrama de Estados
 
 El siguiente diagrama de estados muestra el flujo de estados de los pedidos, incluyendo las restricciones de flujo:
 
-![Diagrama de Estados](diagrama_estados.png)
-![Texto Alternativo](https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/proveedor-app/src/main/resources/static/img/DiagramaDeClases.png))
+![Diagrama de Estados](https://raw.githubusercontent.com/marilynpb/AcedemiaTalendProveedorGolosinas/main/src/main/resources/static/img/DiagramaEstados.png)
 
 ## Restricciones de Flujo de Pedidos
 
