@@ -18,7 +18,7 @@ Esta aplicación de gestión de pedidos de golosinas está desarrollada en Sprin
 
 ### Diagrama de Estados
 
-El siguiente diagrama de estados muestra el flujo de estados de los pedidos, incluyendo las restricciones de flujo:
+El siguiente diagrama de estados muestra el flujo de estados de los pedidos:
 
 ![Diagrama de Estados](https://raw.githubusercontent.com/marilynpb/AcedemiaTalendProveedorGolosinas/main/src/main/resources/static/img/DiagramaEstados.png)
 
@@ -35,6 +35,7 @@ El siguiente diagrama de estados muestra el flujo de estados de los pedidos, inc
 3. Asegúrate de tener Java y Maven instalados en tu sistema.
 4. Compila y ejecuta la aplicación desde tu IDE.
 5. Accede a la aplicación desde tu navegador web en `http://localhost:8080`.
+6. Conectate a la BD H2 (http://localhost:8080/h2-console)
 
 ## Contribución
 
@@ -46,6 +47,3 @@ Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por fa
 4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
 5. Abre un Pull Request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
