@@ -13,6 +13,9 @@ Esta aplicación de gestión de pedidos de golosinas está desarrollada en Sprin
 
 ### Diagrama de Clases
 
+![Diagrama de Clases](https://raw.githubusercontent.com/marilynpb/AcedemiaTalendProveedorGolosinas/main/src/main/resources/static/img/DiagramaDeClases.png)
+
+
 https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/blob/main/src/main/resources/static/img/DiagramaDeClases.png?raw=true
 
 El siguiente diagrama de clases representa la estructura de la aplicación:
