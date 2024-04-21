@@ -37,13 +37,3 @@ El siguiente diagrama de estados muestra el flujo de estados de los pedidos:
 5. Accede a la aplicación desde tu navegador web en `http://localhost:8080`.
 6. Conectate a la BD H2 (http://localhost:8080/h2-console)
 
-## Contribución
-
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, por favor sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama (`git checkout -b feature/nueva-caracteristica`).
-3. Haz tus cambios y commitea los mismos (`git commit -am 'Agrega nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
-
