@@ -22,6 +22,7 @@ El siguiente diagrama de clases representa la estructura de la aplicación:
 El siguiente diagrama de estados muestra el flujo de estados de los pedidos, incluyendo las restricciones de flujo:
 
 ![Diagrama de Estados](diagrama_estados.png)
+![Texto Alternativo](https://github.com/marilynpb/AcedemiaTalendProveedorGolosinas/src/main/resources/static/img/DiagramaDeClases.png))
 
 ## Restricciones de Flujo de Pedidos
 
